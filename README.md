@@ -1,8 +1,8 @@
 # Slicer-Settings
 
-These are my config files for PrusaSlicer 2.6.0.
+These are my config files for PrusaSlicer 2.7.0.
 
-I use these profiles on my Voron 2.4R2 350mm printer. That printer has several upgraded components that allow me to push it a bit faster than stock.
+I use these profiles on my Voron 2.4R2 350mm and Voron 0.2S1 120 mm printers. These printers have several upgraded components that allow me to push them a bit faster than stock.
 
 I provide these as a reference only.
 
